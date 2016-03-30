@@ -1,1 +1,1 @@
-# BLOG
+# Its just an ARTICLE
