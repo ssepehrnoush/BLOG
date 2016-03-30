@@ -1,5 +1,4 @@
-dawn with oo ES AA
-what is bitcoin as I see
+what is bitcoin as my point of view 
 so far i think i know a little about bitcoin anD HOW It works 
 it begins in november 2008 when someone named satoshi nakamoto posted a blog on P2P FOUNDATION website  titled BITCOIN : 
 he said : I made an open source electronic payment system called BITCOIN with a decentralized controller system ,without any central server or reliance on credit institutions .
